@@ -5,13 +5,15 @@
 ### Contact information:
 
 E-mail: ekaterina.mihalovskaya@gmail.com
+
 [Linkedin](https://www.linkedin.com/in/ekaterina-mihalovskaya-2b318321a/)
+
 [Github](https://github.com/ekaterinazhivula/)
 
 ### About myself:
 
 I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an entry-level position with
-Company to use my professional and soft skills in solving and troubleshooting of complex problems, and
+company to use my professional and soft skills in solving and troubleshooting of complex problems, and
 assisting in the timely completion of projects.
 
 ### Skills:
@@ -25,7 +27,9 @@ assisting in the timely completion of projects.
 ### Experience:
 
 Frontend Developer Intern | IT Academy
+
 May 2021 - August 2021 | Minsk
+
 Writing applications under the guidance of a mentor.
 Design and development of multi-page sites.
 Working with Git.
@@ -34,6 +38,7 @@ Working with Git.
 
 Save life | Helping homeless animals Web Aplication
 Implemented the Homeless Animals Searching Web Aplication.
+
 Frontend (JavaScript (ES6), HTML5, CSS3, Webpack and NPM),
 Backend (JSON-server). Frontend and Backend communicate via
 HTTP.
