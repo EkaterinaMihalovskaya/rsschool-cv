@@ -37,6 +37,7 @@ Implemented the Homeless Animals Searching Web Aplication.
 Frontend (JavaScript (ES6), HTML5, CSS3, Webpack and NPM),
 Backend (JSON-server). Frontend and Backend communicate via
 HTTP.
+
 [github link](https://github.com/ekaterinazhivula/save_life)
 
 ##### Code-example:
@@ -63,6 +64,7 @@ btnResultReset.addEventListener('click', function(){
 Frontend developer
 IT Academy
 2021 - 2021
+
 ![certificate](/images/image_cert.png)
 
 Ingineer, civil ingineering
